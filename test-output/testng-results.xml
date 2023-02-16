@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T10:23:32 IST" name="Default suite" finished-at="2023-02-16T10:24:00 IST" duration-ms="27985">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T10:23:32 IST" name="Default test" finished-at="2023-02-16T10:24:00 IST" duration-ms="27985">
+      <class name="ecom.webshop.order.OrderProductWithCODTest">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:ecom.webshop.order.OrderProductWithCODTest@6a988392]" started-at="2023-02-16T10:23:32 IST" name="loginToApp" finished-at="2023-02-16T10:23:38 IST" duration-ms="6089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="orderTest()[pri:0, instance:ecom.webshop.order.OrderProductWithCODTest@6a988392]" started-at="2023-02-16T10:23:38 IST" name="orderTest" finished-at="2023-02-16T10:23:59 IST" duration-ms="21568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderTest -->
+        <test-method is-config="true" signature="logoutApp()[pri:0, instance:ecom.webshop.order.OrderProductWithCODTest@6a988392]" started-at="2023-02-16T10:23:59 IST" name="logoutApp" finished-at="2023-02-16T10:24:00 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+      </class> <!-- ecom.webshop.order.OrderProductWithCODTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
